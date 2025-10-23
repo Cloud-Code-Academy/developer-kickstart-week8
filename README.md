@@ -15,7 +15,7 @@ During this repository, you will enrich your understanding of:
 By conquering Asynchronous Apex techniques, you'll unlock the ability to develop highly scalable, efficient, and user-friendly applications in Salesforce. This prowess amplifies your proficiency in creating dynamic Salesforce solutions that can seamlessly manage large data volumes and extended processing times.
 
 ## Setup
-[Setup Overview](https://learn.cloudcodeacademy.com/courses/salesforce-developer-kickstart-program/lectures/47317682)
+[Setup Overview](https://courses.cloudcodeacademy.com/products/developer-kickstart-program/categories/2157601044/posts/2186920858)
 
 ## Setup Checklist
 1. Create/Configure a trailhead playground or developer org to do your work throughout this program.
